@@ -1,0 +1,30 @@
+.textBox {
+  width: 60rem;
+  position: fixed;
+  bottom: 0.2rem;
+  margin: 1rem 1rem;
+}
+
+.textBox input {
+  width: 90%;
+  padding: 0.6rem;
+  font-size: 1.2rem;
+  border-radius: 3px;
+  background: #efefef;
+  border: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+.textBox Button {
+  margin-left: 1rem;
+  background-color: white;
+  border: white;
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  color: #3578c9;
+  font-size: 1.2rem;
+}

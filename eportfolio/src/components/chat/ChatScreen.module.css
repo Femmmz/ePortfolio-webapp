@@ -1,0 +1,12 @@
+.textBox {
+  margin-top: 10%;
+  margin-left: 5%;
+}
+
+.scroll {
+  width: 90%;
+  height: 30em;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: justify;
+}

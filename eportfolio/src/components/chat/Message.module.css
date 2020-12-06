@@ -1,0 +1,45 @@
+.chat {
+  width: 100%;
+}
+
+.mine {
+  justify-content: flex-end;
+  display: flex;
+  font-size: 1rem;
+}
+.other {
+  margin-left: 10%;
+}
+
+.other .bubbleContainer {
+  font-size: 1rem;
+  display: flex;
+  justify-content: flex-start;
+  /* margin: 2%; */
+}
+
+.other .bubbleContainer .bubble {
+  background: #f4f4f8;
+  padding: 1rem 1rem;
+  margin: 1rem 1rem;
+  max-width: 40rem;
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+
+.mine .bubbleContainer .bubble {
+  justify-content: flex-end;
+  display: flex;
+
+  background: #ceeaff;
+  padding: 1rem 1rem;
+  margin: 1rem 1rem;
+  /* border-radius: 20px; */
+  max-width: 40rem;
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
