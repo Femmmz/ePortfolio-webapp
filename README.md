@@ -11,3 +11,5 @@ And now run in the root directory:
 `firebase emulators:start`
 to start the local database
 
+## deployed link
+https://eportfolio-5head.web.app/
