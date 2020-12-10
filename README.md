@@ -19,5 +19,6 @@ https://eportfolio-5head.web.app/
 ## Visual Details
 
 # Home page
-The home page is straight forward where it guides you to sign up or log in with your google or github accounts.
+The home page is straight forward where it guides you to sign up or log in with your google or github accounts. After you log in, you can check your profile page or your chat page.
+![](images/home.png)
 
