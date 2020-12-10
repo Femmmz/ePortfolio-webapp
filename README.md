@@ -15,3 +15,9 @@ to start the local database
 
 ## deployed link
 https://eportfolio-5head.web.app/
+
+## Visual Details
+
+# Home page
+The home page is straight forward where it guides you to sign up or log in with your google or github accounts.
+
